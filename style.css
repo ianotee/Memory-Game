@@ -1,0 +1,24 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Corinthia:wght@400;700&family=Roboto:ital,wght@0,100;1,100&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+	font-family:'Corinthia', cursive; ;
+}
+
+body {
+	background: darkred;
+
+}
+
+.hero{
+	font-size: 70px;
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  width: 500px;
+  height: 500px;
+}
+
